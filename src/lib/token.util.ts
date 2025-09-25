@@ -1,7 +1,8 @@
 // utils/getUserToken.ts
-import { useSession } from "next-auth/react";
+import { authOptions } from "@/app/api/auth/[...nextauth]/route";
+import { getServerSession } from "next-auth";
 
-export const getUserToken = () => {
-  const { data: session } = useSession();
+export const getUserToken = async () => {
+  const session = await getServerSession(authOptions);
   return session?.token ?? null;
 };
