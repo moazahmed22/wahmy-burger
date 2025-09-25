@@ -1,0 +1,43 @@
+[
+  {
+    "_id": "1",
+    "name": "Classic Burgers",
+    "slug": "classic-burgers",
+    "image": "/data/images/categories/classic-burgers.png",
+    "createdAt": "2025-09-24T10:00:00.000Z",
+    "updatedAt": "2025-09-24T10:00:00.000Z"
+  },
+
+  {
+    "_id": "2",
+    "name": "Chicken Sandwiches",
+    "slug": "chicken-sandwiches",
+    "image": "/data/images/categories/chicken-sandwich.png",
+    "createdAt": "2025-09-24T10:00:00.000Z",
+    "updatedAt": "2025-09-24T10:00:00.000Z"
+  },
+  {
+    "_id": "3",
+    "name": "Stuffed Cheeseburgers",
+    "slug": "stuffed-cheeseburgers",
+    "image": "/data/images/categories/stuffed-cheeseburgers.png",
+    "createdAt": "2025-09-24T10:00:00.000Z",
+    "updatedAt": "2025-09-24T10:00:00.000Z"
+  },
+  {
+    "_id": "4",
+    "name": "Super Saver Offers",
+    "slug": "super-saver",
+    "image": "/data/images/categories/offers.png",
+    "createdAt": "2025-09-24T10:00:00.000Z",
+    "updatedAt": "2025-09-24T10:00:00.000Z"
+  },
+  {
+    "_id": "5",
+    "name": "Sides & Snacks",
+    "slug": "sides-snacks",
+    "image": "/data/images/categories/sides.png",
+    "createdAt": "2025-09-24T10:00:00.000Z",
+    "updatedAt": "2025-09-24T10:00:00.000Z"
+  }
+]

@@ -1,0 +1,738 @@
+[
+  {
+    "sold": 23,
+    "images": ["/data/images/products/classic-chicken-sandwich.webp"],
+    "subcategory": [
+      {
+        "_id": "3-1",
+        "name": "Chicken Sandwiches",
+        "slug": "chicken-sandwiches",
+        "category": "3"
+      }
+    ],
+    "ratingsQuantity": 18,
+    "_id": "p1",
+    "title": "Classic Chicken Sandwich",
+    "slug": "classic-chicken-sandwich",
+    "description": "Crispy natural chicken breast with Wahmy marinade, brioche bun, mayonnaise, cheddar, lettuce, tomato, onion, pickles.",
+    "quantity": 100,
+    "price": 125,
+    "imageCover": "/data/images/products/classic-chicken-sandwich.webp",
+    "category": {
+      "_id": "3",
+      "name": "Chicken Sandwiches",
+      "slug": "chicken-sandwiches",
+      "image": "/data/images/categories/chicken-sandwich.webp",
+      "createdAt": "2025-09-24T10:00:00.000Z",
+      "updatedAt": "2025-09-24T10:00:00.000Z"
+    },
+    "ratingsAverage": 4.0,
+    "createdAt": "2025-09-24T10:00:00.000Z",
+    "updatedAt": "2025-09-24T10:00:00.000Z",
+    "id": "p1"
+  },
+  {
+    "sold": 26,
+    "images": ["/data/images/products/chicken-wood-sandwich.webp"],
+    "subcategory": [
+      {
+        "_id": "3-1",
+        "name": "Chicken Sandwiches",
+        "slug": "chicken-sandwiches",
+        "category": "3"
+      }
+    ],
+    "ratingsQuantity": 18,
+    "_id": "p2",
+    "title": "Chicken Wood Sandwich",
+    "slug": "chicken-wood-sandwich",
+    "description": "Spicy crispy chicken breast, Wahmy firewood sauce, cheddar, beef bacon, lettuce, tomato, onion, pickles.",
+    "quantity": 100,
+    "price": 140,
+    "imageCover": "/data/images/products/chicken-wood-sandwich.webp",
+    "category": {
+      "_id": "3",
+      "name": "Chicken Sandwiches",
+      "slug": "chicken-sandwiches",
+      "image": "/data/images/categories/chicken-sandwich.webp",
+      "createdAt": "2025-09-24T10:00:00.000Z",
+      "updatedAt": "2025-09-24T10:00:00.000Z"
+    },
+    "ratingsAverage": 4.2,
+    "createdAt": "2025-09-24T10:00:00.000Z",
+    "updatedAt": "2025-09-24T10:00:00.000Z",
+    "id": "p2"
+  },
+  {
+    "sold": 29,
+    "images": ["/data/images/products/chicken-tasty-sandwich.webp"],
+    "subcategory": [
+      {
+        "_id": "3-1",
+        "name": "Chicken Sandwiches",
+        "slug": "chicken-sandwiches",
+        "category": "3"
+      }
+    ],
+    "ratingsQuantity": 18,
+    "_id": "p3",
+    "title": "Chicken Tasty Sandwich",
+    "slug": "chicken-tasty-sandwich",
+    "description": "Crispy chicken breast with tasty sauce, cheddar, onion rings, mozzarella sticks, beef bacon, lettuce, tomato, onion, pickles.",
+    "quantity": 100,
+    "price": 180,
+    "imageCover": "/data/images/products/chicken-tasty-sandwich.webp",
+    "category": {
+      "_id": "3",
+      "name": "Chicken Sandwiches",
+      "slug": "chicken-sandwiches",
+      "image": "/data/images/categories/chicken-sandwich.webp",
+      "createdAt": "2025-09-24T10:00:00.000Z",
+      "updatedAt": "2025-09-24T10:00:00.000Z"
+    },
+    "ratingsAverage": 4.4,
+    "createdAt": "2025-09-24T10:00:00.000Z",
+    "updatedAt": "2025-09-24T10:00:00.000Z",
+    "id": "p3"
+  },
+  {
+    "sold": 32,
+    "images": ["/data/images/products/bacon-and-mushroom-burger.webp"],
+    "subcategory": [
+      {
+        "_id": "4-1",
+        "name": "Stuffed Cheeseburgers",
+        "slug": "stuffed-cheeseburgers",
+        "category": "4"
+      }
+    ],
+    "ratingsQuantity": 18,
+    "_id": "p4",
+    "title": "Bacon and Mushroom Burger",
+    "slug": "bacon-and-mushroom-burger",
+    "description": "Angus beef stuffed with cheese, mock sauce, cheese sauce, bacon, mushrooms, lettuce, tomato, onion, pickles.",
+    "quantity": 100,
+    "price": 215,
+    "imageCover": "/data/images/products/bacon-and-mushroom-burger.webp",
+    "category": {
+      "_id": "4",
+      "name": "Stuffed Cheeseburgers",
+      "slug": "stuffed-cheeseburgers",
+      "image": "/data/images/categories/stuffed-cheeseburgers.webp",
+      "createdAt": "2025-09-24T10:00:00.000Z",
+      "updatedAt": "2025-09-24T10:00:00.000Z"
+    },
+    "ratingsAverage": 4.6,
+    "createdAt": "2025-09-24T10:00:00.000Z",
+    "updatedAt": "2025-09-24T10:00:00.000Z",
+    "id": "p4"
+  },
+  {
+    "sold": 35,
+    "images": ["/data/images/products/wahmy-special-burger.webp"],
+    "subcategory": [
+      {
+        "_id": "4-1",
+        "name": "Stuffed Cheeseburgers",
+        "slug": "stuffed-cheeseburgers",
+        "category": "4"
+      }
+    ],
+    "ratingsQuantity": 18,
+    "_id": "p5",
+    "title": "Wahmy Special Burger",
+    "slug": "wahmy-special-burger",
+    "description": "Angus beef stuffed with cheese, ranch sauce, mozzarella sticks, onion rings, bacon, lettuce, tomato, pickles, onion.",
+    "quantity": 100,
+    "price": 225,
+    "imageCover": "/data/images/products/wahmy-special-burger.webp",
+    "category": {
+      "_id": "4",
+      "name": "Stuffed Cheeseburgers",
+      "slug": "stuffed-cheeseburgers",
+      "image": "/data/images/categories/stuffed-cheeseburgers.webp",
+      "createdAt": "2025-09-24T10:00:00.000Z",
+      "updatedAt": "2025-09-24T10:00:00.000Z"
+    },
+    "ratingsAverage": 3.8,
+    "createdAt": "2025-09-24T10:00:00.000Z",
+    "updatedAt": "2025-09-24T10:00:00.000Z",
+    "id": "p5"
+  },
+  {
+    "sold": 38,
+    "images": ["/data/images/products/ranch-burger.webp"],
+    "subcategory": [
+      {
+        "_id": "4-1",
+        "name": "Stuffed Cheeseburgers",
+        "slug": "stuffed-cheeseburgers",
+        "category": "4"
+      }
+    ],
+    "ratingsQuantity": 18,
+    "_id": "p6",
+    "title": "Ranch Burger",
+    "slug": "ranch-burger",
+    "description": "Angus beef stuffed with cheese, ranch sauce, cheese sauce, mozzarella sticks, lettuce, tomato, onion, pickles.",
+    "quantity": 100,
+    "price": 200,
+    "imageCover": "/data/images/products/ranch-burger.webp",
+    "category": {
+      "_id": "4",
+      "name": "Stuffed Cheeseburgers",
+      "slug": "stuffed-cheeseburgers",
+      "image": "/data/images/categories/stuffed-cheeseburgers.webp",
+      "createdAt": "2025-09-24T10:00:00.000Z",
+      "updatedAt": "2025-09-24T10:00:00.000Z"
+    },
+    "ratingsAverage": 4.0,
+    "createdAt": "2025-09-24T10:00:00.000Z",
+    "updatedAt": "2025-09-24T10:00:00.000Z",
+    "id": "p6"
+  },
+  {
+    "sold": 41,
+    "images": ["/data/images/products/bbq-burger-and-onion-rings.webp"],
+    "subcategory": [
+      {
+        "_id": "4-1",
+        "name": "Stuffed Cheeseburgers",
+        "slug": "stuffed-cheeseburgers",
+        "category": "4"
+      }
+    ],
+    "ratingsQuantity": 18,
+    "_id": "p7",
+    "title": "BBQ Burger and Onion Rings",
+    "slug": "bbq-burger-and-onion-rings",
+    "description": "Angus beef stuffed with cheese, topped with onion rings, beef bacon, BBQ sauce, caramelized onion sauce, lettuce, tomato, pickles.",
+    "quantity": 100,
+    "price": 200,
+    "imageCover": "/data/images/products/bbq-burger-and-onion-rings.webp",
+    "category": {
+      "_id": "4",
+      "name": "Stuffed Cheeseburgers",
+      "slug": "stuffed-cheeseburgers",
+      "image": "/data/images/categories/stuffed-cheeseburgers.webp",
+      "createdAt": "2025-09-24T10:00:00.000Z",
+      "updatedAt": "2025-09-24T10:00:00.000Z"
+    },
+    "ratingsAverage": 4.2,
+    "createdAt": "2025-09-24T10:00:00.000Z",
+    "updatedAt": "2025-09-24T10:00:00.000Z",
+    "id": "p7"
+  },
+  {
+    "sold": 44,
+    "images": ["/data/images/products/classic-bacon-burger.webp"],
+    "subcategory": [
+      {
+        "_id": "4-1",
+        "name": "Stuffed Cheeseburgers",
+        "slug": "stuffed-cheeseburgers",
+        "category": "4"
+      }
+    ],
+    "ratingsQuantity": 18,
+    "_id": "p8",
+    "title": "Classic Bacon Burger",
+    "slug": "classic-bacon-burger",
+    "description": "Angus beef stuffed with cheese, bacon, mayo, lettuce, tomato, onion, pickles.",
+    "quantity": 100,
+    "price": 200,
+    "imageCover": "/data/images/products/classic-bacon-burger.webp",
+    "category": {
+      "_id": "4",
+      "name": "Stuffed Cheeseburgers",
+      "slug": "stuffed-cheeseburgers",
+      "image": "/data/images/categories/stuffed-cheeseburgers.webp",
+      "createdAt": "2025-09-24T10:00:00.000Z",
+      "updatedAt": "2025-09-24T10:00:00.000Z"
+    },
+    "ratingsAverage": 4.4,
+    "createdAt": "2025-09-24T10:00:00.000Z",
+    "updatedAt": "2025-09-24T10:00:00.000Z",
+    "id": "p8"
+  },
+  {
+    "sold": 47,
+    "images": ["/data/images/products/space-burger.webp"],
+    "subcategory": [
+      {
+        "_id": "4-1",
+        "name": "Stuffed Cheeseburgers",
+        "slug": "stuffed-cheeseburgers",
+        "category": "4"
+      }
+    ],
+    "ratingsQuantity": 18,
+    "_id": "p9",
+    "title": "Space Burger",
+    "slug": "space-burger",
+    "description": "Angus beef stuffed with cheese, topped with Bohemian sauce, soy sauce, mayo, lettuce, tomato, onion, pickles.",
+    "quantity": 100,
+    "price": 170,
+    "imageCover": "/data/images/products/space-burger.webp",
+    "category": {
+      "_id": "4",
+      "name": "Stuffed Cheeseburgers",
+      "slug": "stuffed-cheeseburgers",
+      "image": "/data/images/categories/stuffed-cheeseburgers.webp",
+      "createdAt": "2025-09-24T10:00:00.000Z",
+      "updatedAt": "2025-09-24T10:00:00.000Z"
+    },
+    "ratingsAverage": 4.6,
+    "createdAt": "2025-09-24T10:00:00.000Z",
+    "updatedAt": "2025-09-24T10:00:00.000Z",
+    "id": "p9"
+  },
+  {
+    "sold": 50,
+    "images": ["/data/images/products/bbq-burger-and-onion-rings-plain.webp"],
+    "subcategory": [
+      {
+        "_id": "1-1",
+        "name": "Classic Burgers",
+        "slug": "classic-burgers",
+        "category": "1"
+      }
+    ],
+    "ratingsQuantity": 18,
+    "_id": "p10",
+    "title": "BBQ Burger and Onion Rings Plain",
+    "slug": "bbq-burger-and-onion-rings-plain",
+    "description": "Angus beef topped with onion rings, beef bacon, BBQ sauce, caramelized onion sauce, lettuce, tomato, pickles.",
+    "quantity": 100,
+    "price": 155,
+    "imageCover": "/data/images/products/bbq-burger-and-onion-rings-plain.webp",
+    "category": {
+      "_id": "1",
+      "name": "Classic Burgers",
+      "slug": "classic-burgers",
+      "image": "/data/images/categories/classic-burgers.webp",
+      "createdAt": "2025-09-24T10:00:00.000Z",
+      "updatedAt": "2025-09-24T10:00:00.000Z"
+    },
+    "ratingsAverage": 3.8,
+    "createdAt": "2025-09-24T10:00:00.000Z",
+    "updatedAt": "2025-09-24T10:00:00.000Z",
+    "id": "p10"
+  },
+  {
+    "sold": 53,
+    "images": ["/data/images/products/classic-bacon-burger-plain.webp"],
+    "subcategory": [
+      {
+        "_id": "1-1",
+        "name": "Classic Burgers",
+        "slug": "classic-burgers",
+        "category": "1"
+      }
+    ],
+    "ratingsQuantity": 18,
+    "_id": "p11",
+    "title": "Classic Bacon Burger Plain",
+    "slug": "classic-bacon-burger-plain",
+    "description": "Angus beef, bacon, mayo, lettuce, tomato, onion, pickles.",
+    "quantity": 100,
+    "price": 155,
+    "imageCover": "/data/images/products/classic-bacon-burger-plain.webp",
+    "category": {
+      "_id": "1",
+      "name": "Classic Burgers",
+      "slug": "classic-burgers",
+      "image": "/data/images/categories/classic-burgers.webp",
+      "createdAt": "2025-09-24T10:00:00.000Z",
+      "updatedAt": "2025-09-24T10:00:00.000Z"
+    },
+    "ratingsAverage": 4.0,
+    "createdAt": "2025-09-24T10:00:00.000Z",
+    "updatedAt": "2025-09-24T10:00:00.000Z",
+    "id": "p11"
+  },
+  {
+    "sold": 56,
+    "images": ["/data/images/products/bacon-and-mushroom-burger-plain.webp"],
+    "subcategory": [
+      {
+        "_id": "1-1",
+        "name": "Classic Burgers",
+        "slug": "classic-burgers",
+        "category": "1"
+      }
+    ],
+    "ratingsQuantity": 18,
+    "_id": "p12",
+    "title": "Bacon and Mushroom Burger Plain",
+    "slug": "bacon-and-mushroom-burger-plain",
+    "description": "Angus beef, mock sauce, cheese sauce, bacon, mushrooms, lettuce, tomato, onion, pickles.",
+    "quantity": 100,
+    "price": 165,
+    "imageCover": "/data/images/products/bacon-and-mushroom-burger-plain.webp",
+    "category": {
+      "_id": "1",
+      "name": "Classic Burgers",
+      "slug": "classic-burgers",
+      "image": "/data/images/categories/classic-burgers.webp",
+      "createdAt": "2025-09-24T10:00:00.000Z",
+      "updatedAt": "2025-09-24T10:00:00.000Z"
+    },
+    "ratingsAverage": 4.2,
+    "createdAt": "2025-09-24T10:00:00.000Z",
+    "updatedAt": "2025-09-24T10:00:00.000Z",
+    "id": "p12"
+  },
+  {
+    "sold": 59,
+    "images": ["/data/images/products/wahmy-special-burger-plain.webp"],
+    "subcategory": [
+      {
+        "_id": "1-1",
+        "name": "Classic Burgers",
+        "slug": "classic-burgers",
+        "category": "1"
+      }
+    ],
+    "ratingsQuantity": 18,
+    "_id": "p13",
+    "title": "Wahmy Special Burger Plain",
+    "slug": "wahmy-special-burger-plain",
+    "description": "Angus beef, ranch sauce, mozzarella sticks, onion rings, bacon, lettuce, tomato, onion, pickles.",
+    "quantity": 100,
+    "price": 175,
+    "imageCover": "/data/images/products/wahmy-special-burger-plain.webp",
+    "category": {
+      "_id": "1",
+      "name": "Classic Burgers",
+      "slug": "classic-burgers",
+      "image": "/data/images/categories/classic-burgers.webp",
+      "createdAt": "2025-09-24T10:00:00.000Z",
+      "updatedAt": "2025-09-24T10:00:00.000Z"
+    },
+    "ratingsAverage": 4.4,
+    "createdAt": "2025-09-24T10:00:00.000Z",
+    "updatedAt": "2025-09-24T10:00:00.000Z",
+    "id": "p13"
+  },
+  {
+    "sold": 62,
+    "images": ["/data/images/products/ranch-burger-plain.webp"],
+    "subcategory": [
+      {
+        "_id": "1-1",
+        "name": "Classic Burgers",
+        "slug": "classic-burgers",
+        "category": "1"
+      }
+    ],
+    "ratingsQuantity": 18,
+    "_id": "p14",
+    "title": "Ranch Burger Plain",
+    "slug": "ranch-burger-plain",
+    "description": "Angus beef, ranch sauce, cheese sauce, mozzarella sticks, lettuce, tomato, onion, pickles.",
+    "quantity": 100,
+    "price": 155,
+    "imageCover": "/data/images/products/ranch-burger-plain.webp",
+    "category": {
+      "_id": "1",
+      "name": "Classic Burgers",
+      "slug": "classic-burgers",
+      "image": "/data/images/categories/classic-burgers.webp",
+      "createdAt": "2025-09-24T10:00:00.000Z",
+      "updatedAt": "2025-09-24T10:00:00.000Z"
+    },
+    "ratingsAverage": 4.6,
+    "createdAt": "2025-09-24T10:00:00.000Z",
+    "updatedAt": "2025-09-24T10:00:00.000Z",
+    "id": "p14"
+  },
+  {
+    "sold": 65,
+    "images": ["/data/images/products/space-burger-plain.webp"],
+    "subcategory": [
+      {
+        "_id": "1-1",
+        "name": "Classic Burgers",
+        "slug": "classic-burgers",
+        "category": "1"
+      }
+    ],
+    "ratingsQuantity": 18,
+    "_id": "p15",
+    "title": "Space Burger Plain",
+    "slug": "space-burger-plain",
+    "description": "Angus beef, Bohemian sauce, soy sauce, mayo, lettuce, tomato, onion, pickles.",
+    "quantity": 100,
+    "price": 135,
+    "imageCover": "/data/images/products/space-burger-plain.webp",
+    "category": {
+      "_id": "1",
+      "name": "Classic Burgers",
+      "slug": "classic-burgers",
+      "image": "/data/images/categories/classic-burgers.webp",
+      "createdAt": "2025-09-24T10:00:00.000Z",
+      "updatedAt": "2025-09-24T10:00:00.000Z"
+    },
+    "ratingsAverage": 3.8,
+    "createdAt": "2025-09-24T10:00:00.000Z",
+    "updatedAt": "2025-09-24T10:00:00.000Z",
+    "id": "p15"
+  },
+  {
+    "sold": 68,
+    "images": ["/data/images/products/corn-ribs.webp"],
+    "subcategory": [
+      {
+        "_id": "6-1",
+        "name": "Sides & Snacks",
+        "slug": "sides-snacks",
+        "category": "6"
+      }
+    ],
+    "ratingsQuantity": 18,
+    "_id": "p16",
+    "title": "Corn Ribs",
+    "slug": "corn-ribs",
+    "description": "Seasoned fried corn ribs (280 Kcal).",
+    "quantity": 100,
+    "price": 55,
+    "imageCover": "/data/images/products/corn-ribs.webp",
+    "category": {
+      "_id": "6",
+      "name": "Sides & Snacks",
+      "slug": "sides-snacks",
+      "image": "/data/images/categories/sides.webp",
+      "createdAt": "2025-09-24T10:00:00.000Z",
+      "updatedAt": "2025-09-24T10:00:00.000Z"
+    },
+    "ratingsAverage": 4.0,
+    "createdAt": "2025-09-24T10:00:00.000Z",
+    "updatedAt": "2025-09-24T10:00:00.000Z",
+    "id": "p16"
+  },
+  {
+    "sold": 71,
+    "images": ["/data/images/products/potatoes.webp"],
+    "subcategory": [
+      {
+        "_id": "6-1",
+        "name": "Sides & Snacks",
+        "slug": "sides-snacks",
+        "category": "6"
+      }
+    ],
+    "ratingsQuantity": 18,
+    "_id": "p17",
+    "title": "Potatoes",
+    "slug": "potatoes",
+    "description": "French fries with skin on, seasoned with Wahmy spices.",
+    "quantity": 100,
+    "price": 55,
+    "imageCover": "/data/images/products/potatoes.webp",
+    "category": {
+      "_id": "6",
+      "name": "Sides & Snacks",
+      "slug": "sides-snacks",
+      "image": "/data/images/categories/sides.webp",
+      "createdAt": "2025-09-24T10:00:00.000Z",
+      "updatedAt": "2025-09-24T10:00:00.000Z"
+    },
+    "ratingsAverage": 4.2,
+    "createdAt": "2025-09-24T10:00:00.000Z",
+    "updatedAt": "2025-09-24T10:00:00.000Z",
+    "id": "p17"
+  },
+  {
+    "sold": 74,
+    "images": ["/data/images/products/potatoes-with-cheese.webp"],
+    "subcategory": [
+      {
+        "_id": "6-1",
+        "name": "Sides & Snacks",
+        "slug": "sides-snacks",
+        "category": "6"
+      }
+    ],
+    "ratingsQuantity": 18,
+    "_id": "p18",
+    "title": "Potatoes with Cheese",
+    "slug": "potatoes-with-cheese",
+    "description": "Skin-on fries with Wahmy spices and cheese sauce (760 Kcal).",
+    "quantity": 100,
+    "price": 75,
+    "imageCover": "/data/images/products/potatoes-with-cheese.webp",
+    "category": {
+      "_id": "6",
+      "name": "Sides & Snacks",
+      "slug": "sides-snacks",
+      "image": "/data/images/categories/sides.webp",
+      "createdAt": "2025-09-24T10:00:00.000Z",
+      "updatedAt": "2025-09-24T10:00:00.000Z"
+    },
+    "ratingsAverage": 4.4,
+    "createdAt": "2025-09-24T10:00:00.000Z",
+    "updatedAt": "2025-09-24T10:00:00.000Z",
+    "id": "p18"
+  },
+  {
+    "sold": 77,
+    "images": ["/data/images/products/wahmy-snacks.webp"],
+    "subcategory": [
+      {
+        "_id": "6-1",
+        "name": "Sides & Snacks",
+        "slug": "sides-snacks",
+        "category": "6"
+      }
+    ],
+    "ratingsQuantity": 18,
+    "_id": "p19",
+    "title": "Wahmy Snacks",
+    "slug": "wahmy-snacks",
+    "description": "Fried corn, mozzarella sticks, onion rings, served with ranch and BBQ sauce (1450 Kcal).",
+    "quantity": 100,
+    "price": 100,
+    "imageCover": "/data/images/products/wahmy-snacks.webp",
+    "category": {
+      "_id": "6",
+      "name": "Sides & Snacks",
+      "slug": "sides-snacks",
+      "image": "/data/images/categories/sides.webp",
+      "createdAt": "2025-09-24T10:00:00.000Z",
+      "updatedAt": "2025-09-24T10:00:00.000Z"
+    },
+    "ratingsAverage": 4.6,
+    "createdAt": "2025-09-24T10:00:00.000Z",
+    "updatedAt": "2025-09-24T10:00:00.000Z",
+    "id": "p19"
+  },
+  {
+    "sold": 80,
+    "images": ["/data/images/products/loaded-fries.webp"],
+    "subcategory": [
+      {
+        "_id": "6-1",
+        "name": "Sides & Snacks",
+        "slug": "sides-snacks",
+        "category": "6"
+      }
+    ],
+    "ratingsQuantity": 18,
+    "_id": "p20",
+    "title": "Loaded Fries",
+    "slug": "loaded-fries",
+    "description": "Fries with Wahmy spices, ranch, cheese sauce, and beef bacon pieces.",
+    "quantity": 100,
+    "price": 100,
+    "imageCover": "/data/images/products/loaded-fries.webp",
+    "category": {
+      "_id": "6",
+      "name": "Sides & Snacks",
+      "slug": "sides-snacks",
+      "image": "/data/images/categories/sides.webp",
+      "createdAt": "2025-09-24T10:00:00.000Z",
+      "updatedAt": "2025-09-24T10:00:00.000Z"
+    },
+    "ratingsAverage": 3.8,
+    "createdAt": "2025-09-24T10:00:00.000Z",
+    "updatedAt": "2025-09-24T10:00:00.000Z",
+    "id": "p20"
+  },
+  {
+    "sold": 83,
+    "images": ["/data/images/products/space-shella-box.webp"],
+    "subcategory": [
+      {
+        "_id": "5-1",
+        "name": "Super Saver Offers",
+        "slug": "super-saver",
+        "category": "5"
+      }
+    ],
+    "ratingsQuantity": 18,
+    "_id": "p21",
+    "title": "Space Shella Box",
+    "slug": "space-shella-box",
+    "description": "2 wagyu beef burgers in brioche buns with sauces, cheddar, lettuce, tomato, onion, pickles, fries, and 2 drinks.",
+    "quantity": 100,
+    "price": 230,
+    "imageCover": "/data/images/products/space-shella-box.webp",
+    "category": {
+      "_id": "5",
+      "name": "Super Saver Offers",
+      "slug": "super-saver",
+      "image": "/data/images/categories/offers.webp",
+      "createdAt": "2025-09-24T10:00:00.000Z",
+      "updatedAt": "2025-09-24T10:00:00.000Z"
+    },
+    "ratingsAverage": 4.0,
+    "createdAt": "2025-09-24T10:00:00.000Z",
+    "updatedAt": "2025-09-24T10:00:00.000Z",
+    "id": "p21"
+  },
+  {
+    "sold": 86,
+    "images": ["/data/images/products/gangam-shella-box.webp"],
+    "subcategory": [
+      {
+        "_id": "5-1",
+        "name": "Super Saver Offers",
+        "slug": "super-saver",
+        "category": "5"
+      }
+    ],
+    "ratingsQuantity": 18,
+    "_id": "p22",
+    "title": "Gangam Shella Box",
+    "slug": "gangam-shella-box",
+    "description": "2 crispy chicken sandwiches in brioche buns with mayo, cheddar, lettuce, tomato, onion, pickles, fries, and 2 drinks.",
+    "quantity": 100,
+    "price": 230,
+    "imageCover": "/data/images/products/gangam-shella-box.webp",
+    "category": {
+      "_id": "5",
+      "name": "Super Saver Offers",
+      "slug": "super-saver",
+      "image": "/data/images/categories/offers.webp",
+      "createdAt": "2025-09-24T10:00:00.000Z",
+      "updatedAt": "2025-09-24T10:00:00.000Z"
+    },
+    "ratingsAverage": 4.2,
+    "createdAt": "2025-09-24T10:00:00.000Z",
+    "updatedAt": "2025-09-24T10:00:00.000Z",
+    "id": "p22"
+  },
+  {
+    "sold": 89,
+    "images": ["/data/images/products/shella-mix.webp"],
+    "subcategory": [
+      {
+        "_id": "5-1",
+        "name": "Super Saver Offers",
+        "slug": "super-saver",
+        "category": "5"
+      }
+    ],
+    "ratingsQuantity": 18,
+    "_id": "p23",
+    "title": "Shella Mix",
+    "slug": "shella-mix",
+    "description": "Chicken sandwich with mayo, cheese + Space burger with sauces, cheddar, lettuce, tomato, onion, pickles, fries, and 2 drinks.",
+    "quantity": 100,
+    "price": 230,
+    "imageCover": "/data/images/products/shella-mix.webp",
+    "category": {
+      "_id": "5",
+      "name": "Super Saver Offers",
+      "slug": "super-saver",
+      "image": "/data/images/categories/offers.webp",
+      "createdAt": "2025-09-24T10:00:00.000Z",
+      "updatedAt": "2025-09-24T10:00:00.000Z"
+    },
+    "ratingsAverage": 4.4,
+    "createdAt": "2025-09-24T10:00:00.000Z",
+    "updatedAt": "2025-09-24T10:00:00.000Z",
+    "id": "p23"
+  }
+]
