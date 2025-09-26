@@ -5,6 +5,7 @@ import React, { useEffect } from "react";
 
 const Wishlist = () => {
   const { wishlistProducts, getWishlistDetails } = useWishlist();
+  
 
   useEffect(() => {
     getWishlistDetails();
