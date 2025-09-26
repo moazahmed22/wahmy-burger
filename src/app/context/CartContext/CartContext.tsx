@@ -14,10 +14,11 @@ const CartContext = createContext<CartContext>({
 });
 
 const CartProvider = ({ children }: { children: React.ReactNode }) => {
-  const [cartDetails, setCartDetails] = useState(null);
+  const [cartDetails, setCartDetails] = useState<CartResponse | null>(null);
 
   const getCartDetails = () => {
     const response = getCart();
+
     setCartDetails(response);
   };
 
