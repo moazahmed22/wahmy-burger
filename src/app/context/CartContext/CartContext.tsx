@@ -5,7 +5,7 @@ import React, { createContext, useContext, useEffect, useState } from "react";
 
 type CartContext = {
   cartDetails: CartResponse | null;
-  getCartDetails: () => Promise<void>;
+  getCartDetails: () => void;
 };
 
 const CartContext = createContext<CartContext>({
